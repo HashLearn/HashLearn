@@ -1063,6 +1063,10 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
    Slider
 
 -------*/
+.mbri-down:before{
+  color: #ffcc00;
+}
+
 .mbr-slider .carousel-inner > .active,
 .mbr-slider .carousel-inner > .next,
 .mbr-slider .carousel-inner > .prev {
