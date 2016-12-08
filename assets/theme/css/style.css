@@ -34,7 +34,7 @@
   background: none !important; }
 
 .btn {
-  font-family: 'Museo Sans', sans-serif;
+  font-family: 'Museo Sans','Source Sans Pro','Roboto','Open Sans',Helvetica, sans-serif;
   font-weight: 500;
   letter-spacing: 2px;
   padding: 0.75rem 2.1875rem;
@@ -50,7 +50,7 @@
   font-size: 0.9687rem;
   line-height: 1.5;
   border-radius: 3px;
-  font-family: "Museo Sans";
+  font-family: "Museo Sans",'Source Sans Pro','Roboto','Open Sans',Helvetica;
   font-style: italic;
   font-weight: 400;
   letter-spacing: 0px; }
@@ -456,7 +456,7 @@ p.lead,
   font-size: 1.07rem;
   font-weight: 400; }
   .lead a {
-    font-family: "Museo Sans";
+    font-family: "Museo Sans",'Source Sans Pro','Roboto','Open Sans',Helvetica;
     font-style: italic;
     font-weight: 400; }
     .lead a, .lead a:hover {
@@ -481,7 +481,7 @@ p.lead,
     font-weight: 600;
     margin-bottom: 1.605rem; }
   .lead blockquote {
-    font-family: "Museo Sans";
+    font-family: "Museo Sans",'Source Sans Pro','Roboto','Open Sans',Helvetica;
     font-style: italic;
     padding: 10px 0 10px 20px;
     border-left: 4px solid #c39f76;
@@ -551,7 +551,7 @@ p.lead,
 .alert {
   border-radius: 0;
   border: 0;
-  font-family: 'Museo Sans', sans-serif;
+  font-family: 'Museo Sans','Source Sans Pro','Roboto','Open Sans',Helvetica, sans-serif;
   font-size: 0.875rem;
   line-height: 1.5;
   margin-bottom: 1.875rem;
@@ -589,18 +589,18 @@ p.lead,
  * TYPOGRAPHY
  */
 body {
-  font-family: 'Museo Sans', sans-serif;
+  font-family: 'Museo Sans','Source Sans Pro','Roboto','Open Sans',Helvetica, sans-serif;
   color: #232323; }
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6,
 .display-1, .display-2, .display-3, .display-4 {
-  font-family: 'Museo Sans', sans-serif;
+  font-family: 'Museo Sans','Source Sans Pro','Roboto','Open Sans',Helvetica, sans-serif;
   word-break: break-word;
   word-wrap: break-word; }
 
 input, textarea {
-  font-family: "Museo Sans"; }
+  font-family: "Museo Sans",'Source Sans Pro','Roboto','Open Sans',Helvetica; }
 
 input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, input:-webkit-autofill:active {
   transition-delay: 9999s;
@@ -681,7 +681,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   font-style: italic;
   font-weight: 400;
   font-size: 17px;
-  font-family: "Museo Sans";
+  font-family: "Museo Sans",'Source Sans Pro','Roboto','Open Sans',Helvetica;
   line-height: 26px;
   color: #8c8c8c;
   margin-bottom: 30px; }
@@ -696,7 +696,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   margin-bottom: 1.6875rem; }
 .mbr-section-hero .mbr-section-lead {
   color: #fff;
-  font-family: Museo Sans;
+  font-family: Museo Sans;,'Source Sans Pro','Roboto','Open Sans',Helvetica
   font-size: 1.5rem;
   font-style: italic;
   margin-top: -1em; }
@@ -825,7 +825,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   .mbr-figure .mbr-figure-caption {
     background: #2e2e2e;
     color: #fff;
-    font-family: Museo Sans;
+    font-family: Museo Sans;,'Source Sans Pro','Roboto','Open Sans',Helvetica
     padding: 1.5rem 0;
     text-align: center;
     width: 100%; }
@@ -846,7 +846,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     width: 100%; }
   .mbr-map [data-state-details] {
     color: #6b6763;
-    font-family: Museo Sans;
+    font-family: Museo Sans;,'Source Sans Pro','Roboto','Open Sans',Helvetica
     height: 1.5em;
     margin-top: -0.75em;
     padding-left: 1.25rem;
@@ -954,7 +954,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   opacity: 0.9; }
 
 .mbr-gallery-title {
-  font-family: Museo Sans;
+  font-family: Museo Sans;,'Source Sans Pro','Roboto','Open Sans',Helvetica
   font-size: 0.9em;
   position: absolute;
   display: block;
@@ -1264,7 +1264,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .mbr-cards .card-title {
   margin-bottom: 0;
   font-size: 1.45rem;
-  font-family: 'Museo Sans';
+  font-family: 'Museo Sans','Source Sans Pro','Roboto','Open Sans',Helvetica;
   font-weight: 400;
   letter-spacing: -1px;
   line-height: 1.2825; }
@@ -1336,14 +1336,14 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   .mbr-plan .card-title {
     margin-bottom: 1.5625rem; }
   .mbr-plan-title {
-    font-family: "Museo Sans";
+    font-family: "Museo Sans",'Source Sans Pro','Roboto','Open Sans',Helvetica;
     font-size: 0.9375rem;
     font-weight: 700;
     line-height: 1.28;
     margin-bottom: 0; }
   .mbr-plan-subtitle, .mbr-plan-price-desc {
     color: #a0a0a0;
-    font-family: "Museo Sans";
+    font-family: "Museo Sans",'Source Sans Pro','Roboto','Open Sans',Helvetica;
     font-size: 0.875rem;
     font-style: italic;
     font-weight: 400;
@@ -1403,7 +1403,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
 -------*/
 .mbr-price {
-  font-family: "Museo Sans";
+  font-family: "Museo Sans",'Source Sans Pro','Roboto','Open Sans',Helvetica;
   line-height: 1.3; }
   .mbr-price-value {
     font-size: 1.875rem;
@@ -1491,7 +1491,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     width: 5rem; }
 .mbr-author-name {
   color: #2d2d2d;
-  font-family: "Museo Sans";
+  font-family: "Museo Sans",'Source Sans Pro','Roboto','Open Sans',Helvetica;
   font-size: 1rem;
   font-weight: 700;
   letter-spacing: -1px;
@@ -1499,7 +1499,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   padding-top: 1.25rem; }
 .mbr-author-desc {
   color: #a7a7a7;
-  font-family: "Museo Sans";
+  font-family: "Museo Sans",'Source Sans Pro','Roboto','Open Sans',Helvetica;
   font-size: 0.875rem;
   font-style: italic;
   font-weight: 400;
@@ -1636,7 +1636,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .mbr-footer-content p strong, .mbr-footer-content strong, .mbr-footer .mbr-contacts h1, .mbr-footer .mbr-contacts h2, .mbr-footer .mbr-contacts h3, .mbr-footer .mbr-contacts h4,
 .mbr-footer .mbr-contacts p strong, .mbr-footer .mbr-contacts strong {
   color: #7c7c7c;
-  font-family: "Museo Sans";
+  font-family: "Museo Sans",'Source Sans Pro','Roboto','Open Sans',Helvetica;
   font-size: 1rem;
   font-weight: 700;
   letter-spacing: -1px;
@@ -1657,7 +1657,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   border-bottom: 1px dotted rgba(255, 255, 255, 0.2);
   color: #bcbcbc;
   display: block;
-  font-family: "Museo Sans";
+  font-family: "Museo Sans",'Source Sans Pro','Roboto','Open Sans',Helvetica;
   font-size: 0.875rem;
   line-height: 1.8;
   overflow: hidden;
@@ -1741,7 +1741,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     width: 3.5rem; }
   .mbr-company .list-group-text {
     color: #fff;
-    font-family: "Museo Sans";
+    font-family: "Museo Sans",'Source Sans Pro','Roboto','Open Sans',Helvetica;
     font-size: 0.875rem;
     line-height: 1.6;
     position: static;
